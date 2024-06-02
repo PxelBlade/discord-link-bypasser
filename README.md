@@ -1,7 +1,7 @@
 # Discord anti-link bypass
 ## Download and setup:
-### - Download [Node.js](https://nodejs.org/en)
-### - execute `start.bat` file
+### - You need node js [Node.js](https://nodejs.org/en)
+### - download the whole code and run `start.bat`
 
 ## Usage:
 > [!NOTE]
